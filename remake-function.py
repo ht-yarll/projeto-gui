@@ -33,4 +33,4 @@ def request_data(labels):
 
         return 
 
-request_data(['developer', 'designer'])
+request_data(['dados'])
